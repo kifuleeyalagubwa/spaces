@@ -1,0 +1,50 @@
+# Django
+*.pyc
+__pycache__/
+
+
+# Environment
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Static files at build time
+/staticfiles/
+
+# Media files
+/media/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.yml
+.dockerignore
+
+# Koyeb
+koyeb-secrets.json
+
+# Python
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# pyenv
+.python-version

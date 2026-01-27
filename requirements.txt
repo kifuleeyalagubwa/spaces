@@ -1,0 +1,27 @@
+# Core Django
+Django==5.1.7
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
+
+# Real-time features
+channels==4.1.0
+channels-redis==4.1.0
+daphne==4.1.0
+redis==5.0.1
+
+# Django packages
+django-phonenumber-field==7.1.0
+django-countries==7.5.1
+django-crispy-forms==2.1
+crispy-bootstrap5==0.7
+
+# Media handling
+Pillow==10.2.0
+
+# Environment and database
+django-environ==0.11.2
+dj-database-url==2.0.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1

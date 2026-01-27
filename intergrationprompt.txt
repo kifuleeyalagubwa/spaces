@@ -1,0 +1,1 @@
+let spaces have user credits which in reality are going to be in relation to a specific token called soma,so i think we will make an api app in spaces to directly use labisa blockchain as the other apps will do ,let the setter be the ones to initiate the certificate nfts according to thier preffered designs,i have liked the booking logic
